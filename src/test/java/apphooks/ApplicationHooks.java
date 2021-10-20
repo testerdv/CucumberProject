@@ -50,4 +50,5 @@ public class ApplicationHooks {
 			scenario.attach(sourceBytes, "image/png", screenShotName);
 		}
 	}
+	
 }
